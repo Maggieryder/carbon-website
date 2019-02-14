@@ -460,11 +460,11 @@ module.exports = {
       role: ['Success'],
       value: {
         white: {
-          name: 'Green 60',
+          name: 'Green 40',
           hex: '#198038',
         },
         g10: {
-          name: 'Green 60',
+          name: 'Green 40',
           hex: '#198038',
         },
         g90: {
